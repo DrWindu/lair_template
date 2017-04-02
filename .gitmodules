@@ -1,0 +1,3 @@
+[submodule "lair"]
+	path = lair
+	url = git@github.com:draklaw/lair.git
