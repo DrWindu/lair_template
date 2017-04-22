@@ -8,7 +8,7 @@ An empty game based on [Lair](https://github.com/draklaw/lair). Use this as a st
 
 TODO list if you use this:
 - Change the name of the project in `CMakeLists.txt`.
-- Add authors to AUTORS.
+- Add authors to AUTHORS.
 - Code your game !
 
 ## Compilation
